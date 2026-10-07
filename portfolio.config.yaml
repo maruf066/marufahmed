@@ -17,7 +17,7 @@ siteUrl:  "https://yourusername.github.io"  # ← Your GitHub Pages URL (used fo
 showPoweredBy: false  # Set to true to show a small "Made with GitVitae" badge in your footer (helps others discover GitVitae)
 
 # ── Identity ───────────────────────────────────────────── (required) ──
-name: "Git Vitae"              # Your name — shown in the header and used as a fallback in the avatar
+name: "MD MARUF AHMED"              # Your name — shown in the header and used as a fallback in the avatar
 title: "Portfolio-Resume Engineer"
 tagline: "I build free portfolios and resumes for everyone."
 email: "git-vitae@proton.me"
